@@ -1,96 +1,140 @@
-# 👋 Hi, I'm Abu Sufian Rubel — Software Engineer (PHP | JavaScript | Go | Java)
+<h1 align="center">👋 Hi, I'm Abu Sufian Rubel</h1>
+<p align="center">
+  <b>Software Engineer</b> | <code>PHP</code> | <code>JavaScript</code> | <code>Go</code> | <code>Java</code><br>
+  🚀 Focused on backend systems, clean architecture & scalable platforms
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue)](https://sufianrubel.github.io/profile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sufian24)
-[![Email](https://img.shields.io/badge/Gmail-Contact-red)](mailto:rubel.nstu27@gmail.com)
-
----
-
-💡 **About Me**
-
-I'm a **Software Engineer** specializing in **PHP** and modern web technologies. I architect and build secure, scalable, and high-performance backend systems with a strong passion for clean code and automation. With over 4 years of hands-on experience, I’ve worked on real-time financial apps, hotel management platforms, and multi-vendor eCommerce systems.
-
----
-
-🧰 **Tech Stack**
-
-**Languages:**  
-`PHP` • `JavaScript` • `Go` • `Java` • `SQL`
-
-**Frameworks & Libraries:**  
-`Laravel` • `Vue.js` • `React.js` • `Inertia.js` • `Echo` • `Spring Boot`
-
-**Databases:**  
-`MySQL` • `PostgreSQL` • `MongoDB`
-
-**DevOps & Cloud:**  
-`Docker` • `GitHub Actions` • `AWS` • `CI/CD` • `YAML`
-
-**Version Control & Tools:**  
-`Git` • `GitHub` • `Bitbucket` • `Jira` • `Scrum`
+<p align="center">
+  <a href="https://sufianrubel.github.io/profile" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/sufian24" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:rubel.nstu27@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/sufianrubel"><img src="https://img.shields.io/github/followers/sufianrubel?style=for-the-badge&label=Follow&logo=github" /></a>
+</p>
 
 ---
 
-🚀 **Key Projects**
+## 👨‍💻 About Me
 
-🔹 [**PayMoney**](https://demo.paymoney.techvill.net) – Online payment gateway  
-Built with Laravel. Features: multi-currency wallets, KYC verification, global payment integrations (PayPal, Stripe, CoinPayments).
+I'm a Bangladeshi 🇧🇩 **Backend Software Engineer** with over **5 years of experience** designing and building scalable, secure, and maintainable backend systems for real-world platforms in FinTech, eCommerce, and Hospitality Tech.
 
-🔹 [**Martvill**](https://martvill.techvill.net) – Multi-vendor eCommerce  
-Laravel-powered platform with vendor onboarding, real-time tracking, and seamless order management.
+🔧 I specialize in:
+- 🗃️ Designing RESTful APIs and microservices with performance and security in mind
+- 📦 Integrating global payment gateways and third-party services
+- 🧱 Optimizing backend performance and ensuring fault-tolerant architecture
 
-🔹 [**HM Panel for Skyticket**](https://skyticket.com)  
-Developed with Go (Echo) + Vue.js. Integrated PMS APIs to manage bookings, inventory sync, and pricing automation.
+🔭 **Currently working at [Adventure Dhaka Ltd](https://adventurekk.com)** — building a real-time hospitality management platform with Go + Vue.js.
 
----
+🌱 Exploring Kubernetes, distributed systems, and advanced cloud automation.
 
-💼 **Experience**
-
-**🔸 Software Engineer (PHP, Go)** — [Adventure Dhaka Ltd](https://adventurekk.com)  
-*Nov 2024 – Present*  
-- Developed a real-time HM panel for multi-property hotel operations using Go & Vue.js  
-- Integrated AirHost PMS & Temairazu APIs for booking sync and OTA pricing
-
-**🔸 Software Engineer (PHP, Laravel)** — [TechVillage](https://techvill.net)  
-*June 2020 – Oct 2024*  
-- Engineered backend for PayMoney & Martvill platforms  
-- Refactored payment workflows, improving speed & reliability by 60%
-
-**🔸 Junior Web Developer** — [Uttara InfoTech](https://uttarainfotech.com)  
-*Jan 2020 – Mar 2020*  
-- Built responsive UIs with HTML5, CSS3, JS, and worked with version control
+⚡ **Fun Fact:** I started my journey with HTML & CSS and never stopped learning!
 
 ---
 
-📜 **Certifications**
+## 🧰 Tech Stack
 
-- [SQL (Intermediate) – HackerRank](https://shorturl.at/H4lVD)  
-- [CSS (Basic) – HackerRank](https://shorturl.at/VmMPH)  
-- [Beginning Vue.js – Ostad](https://ostad.app)  
-- [Intro to JIRA – Simplilearn](https://shorturl.at/HSPx1)
+### 👨‍💻 Languages
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-%2300ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F?style=flat&logo=sqlite&logoColor=white)
+
+### 🧱 Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat&logo=laravel&logoColor=white)
+![Echo](https://img.shields.io/badge/Echo-%2300ADD8?style=flat&logo=go&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2342b883?style=flat&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-%23323330?style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=flat&logo=spring-boot&logoColor=white)
+
+### 🗃️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=flat&logo=redis&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=flat&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%23000000?style=flat&logo=yaml&logoColor=white)
+
+### 🔁 Messaging & Jobs
+![Kafka](https://img.shields.io/badge/Kafka-%23000000?style=flat&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+### 🧪 Testing & Quality
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325?style=flat&logo=jest&logoColor=white)
+![Testify](https://img.shields.io/badge/Testify-%2300ADD8?style=flat&logo=go&logoColor=white)
+
+### 🔎 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=flat&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23002A66?style=flat)
+
+### 🔧 Tools & Version Control
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3?style=flat&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%230052CC?style=flat&logo=confluence&logoColor=white)
 
 ---
 
-🏆 **Recognition**
+## 🏗️ Featured Projects
 
-- 🏅 *Employee of the Quarter – TechVillage* (Q2 2023)  
-  Recognized for leading innovations in PayMoney's architecture and scaling.
+🔹 **[PayMoney](https://demo.paymoney.techvill.net)**  
+Multi-currency online payment gateway (Laravel) with KYC, escrow, Stripe, PayPal, and remittance modules.
+
+🔹 **[Martvill](https://martvill.techvill.net)**  
+Full-featured multi-vendor eCommerce (Laravel + Vue.js) with real-time order tracking & inventory sync.
+
+🔹 **[Skyticket Hotel Panel](https://skyticket.com)**  
+Real-time hotel management panel (Go + Vue.js), integrated with AirHost PMS & Temairazu APIs.
 
 ---
 
-📊 **GitHub Stats**
+## 🏢 Work Experience
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sufianrubel&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sufianrubel&layout=compact)
+**Software Engineer (Go)** – *[Adventure Dhaka Ltd](https://adventurekk.com)*  
+→ Real-time Hospitality Panel (Go + Vue.js)  
+→ Microservice architecture, GitHub Actions, Docker
+
+**Software Engineer** – *[TechVillage](https://techvill.net)*  
+→ PayMoney API design and optimization  
+→ Martvill vendor system, KYC
+
+**Junior Web Developer** – *[Uttara InfoTech](https://www.uttarainfotech.com)*  
+→ HTML/CSS/JS websites, version control, client feedback loop
 
 ---
 
-📫 **Let’s Connect**
+## 🏅 Certifications
 
-- 🌐 [Portfolio Website](https://sufianrubel.github.io/profile)  
+- 📜 SQL Intermediate – [HackerRank](https://shorturl.at/H4lVD)  
+- 📜 CSS Basics – [HackerRank](https://shorturl.at/VmMPH)  
+- 📜 Beginning Vue.js – [Ostad](https://ostad.app)  
+- 📜 Jira – [Simplilearn](https://shorturl.at/HSPx1)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=sufianrubel&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufianrubel&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📬 Let’s Connect
+- 🐙 [GitHub](https://github.com/sufianrubel)
+- 🌐 [Portfolio](https://sufianrubel.github.io/profile)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sufian24)  
-- 📧 [rubel.nstu27@gmail.com](mailto:rubel.nstu27@gmail.com)
+- 📧 [Email](mailto:rubel.nstu27@gmail.com)
 
 ---
 
-> "First solve the problem, then write the code — with clarity, scalability, and purpose."
+> 🔥 *“Code is poetry. Make it scalable, make it clean.”*
