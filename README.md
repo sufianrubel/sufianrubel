@@ -1,52 +1,96 @@
-Hi 👋 My name is Abu Sufian Rubel
-=================================
+# 👋 Hi, I'm Abu Sufian Rubel — Software Engineer (PHP | JavaScript | Go | Java)
 
-Software Engineer | Backend Engineer | PHP, Go, Java | Vue Js, React JS, React Native
--------------------------------------------------------------------------------------
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue)](https://sufianrubel.github.io/profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sufian24)
+[![Email](https://img.shields.io/badge/Gmail-Contact-red)](mailto:rubel.nstu27@gmail.com)
 
-I’m a passionate Full-Stack Web Developer from Bangladesh, with a strong focus on \*\*Laravel\*\*, \*\*Vue.js\*\*, and \*\*modern web technologies\*\*. I have 3.5+ years of experience developing secure, scalable, and feature-rich web applications. From clean UI design to robust backend logic, I enjoy crafting thoughtful digital solutions that solve real-world problems.
+---
 
-* 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [MyPortfolio](http://sufianrubel.github.io/profile)
-* ✉️  You can contact me at [rubel.nstu27@gmail.com](mailto:rubel.nstu27@gmail.com)
-* 🚀  I'm currently working on [MeritsEye](http://meritseye.xyz)
-* 🧠  I'm learning Tailwind CSS, Vue JS, AI Prompt Engineering
-* 🤝  I'm open to collaborating on Full-stack Laravel projects, SaaS tools, and educational platforms
-* ⚡  I’m quietly building tools to empower local communities and aspiring learners in tech 🚀
+💡 **About Me**
 
-<a href="https://www.github.com/sufianrubel" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sufianrubel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+I'm a **Software Engineer** specializing in **PHP** and modern web technologies. I architect and build secure, scalable, and high-performance backend systems with a strong passion for clean code and automation. With over 4 years of hands-on experience, I’ve worked on real-time financial apps, hotel management platforms, and multi-vendor eCommerce systems.
 
-### Skills
+---
 
+🧰 **Tech Stack**
 
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" title="Go"/></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="36" height="36" alt="Sublime Text" title="Sublime Text"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" title="Sass"/></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" title="Vue"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" title="JQuery"/></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" title="Nuxtjs"/></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" title="Wordpress"/></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" title="Laravel"/></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" title="Amazon Web Services"/></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" title="Digital Ocean"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
-</p>
+**Languages:**  
+`PHP` • `JavaScript` • `Go` • `Java` • `SQL`
 
+**Frameworks & Libraries:**  
+`Laravel` • `Vue.js` • `React.js` • `Inertia.js` • `Echo` • `Spring Boot`
 
-### Socials
+**Databases:**  
+`MySQL` • `PostgreSQL` • `MongoDB`
 
-<p align="left"> <a href="https://www.codepen.io/sufianrubel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" alt="CodePen" title="CodePen" /> </picture> </a> <a href="https://www.dev.to/sufian24" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a> <a href="https://www.github.com/sufianrubel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/sufian24" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="http://www.medium.com/@abusufianrubel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.stackoverflow.com/users/12084944/abu-sufian-rubel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
+**DevOps & Cloud:**  
+`Docker` • `GitHub Actions` • `AWS` • `CI/CD` • `YAML`
 
-### Badges
+**Version Control & Tools:**  
+`Git` • `GitHub` • `Bitbucket` • `Jira` • `Scrum`
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/sufianrubel"><img src="https://github-readme-stats.vercel.app/api?username=sufianrubel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sufianrubel's GitHub stats" /></a>
+🚀 **Key Projects**
 
-<a href="http://www.github.com/sufianrubel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sufianrubel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+🔹 [**PayMoney**](https://demo.paymoney.techvill.net) – Online payment gateway  
+Built with Laravel. Features: multi-currency wallets, KYC verification, global payment integrations (PayPal, Stripe, CoinPayments).
 
-<a href="https://github.com/sufianrubel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufianrubel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+🔹 [**Martvill**](https://martvill.techvill.net) – Multi-vendor eCommerce  
+Laravel-powered platform with vendor onboarding, real-time tracking, and seamless order management.
 
-<b>Top Repositories</b>
+🔹 [**HM Panel for Skyticket**](https://skyticket.com)  
+Developed with Go (Echo) + Vue.js. Integrated PMS APIs to manage bookings, inventory sync, and pricing automation.
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+---
 
-### Support Me
+💼 **Experience**
 
-<ul style="list-style-type: none; margin: 0;">
+**🔸 Software Engineer (PHP, Go)** — [Adventure Dhaka Ltd](https://adventurekk.com)  
+*Nov 2024 – Present*  
+- Developed a real-time HM panel for multi-property hotel operations using Go & Vue.js  
+- Integrated AirHost PMS & Temairazu APIs for booking sync and OTA pricing
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/rubelnstu2s"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+**🔸 Software Engineer (PHP, Laravel)** — [TechVillage](https://techvill.net)  
+*June 2020 – Oct 2024*  
+- Engineered backend for PayMoney & Martvill platforms  
+- Refactored payment workflows, improving speed & reliability by 60%
 
-</ul>
+**🔸 Junior Web Developer** — [Uttara InfoTech](https://uttarainfotech.com)  
+*Jan 2020 – Mar 2020*  
+- Built responsive UIs with HTML5, CSS3, JS, and worked with version control
+
+---
+
+📜 **Certifications**
+
+- [SQL (Intermediate) – HackerRank](https://shorturl.at/H4lVD)  
+- [CSS (Basic) – HackerRank](https://shorturl.at/VmMPH)  
+- [Beginning Vue.js – Ostad](https://ostad.app)  
+- [Intro to JIRA – Simplilearn](https://shorturl.at/HSPx1)
+
+---
+
+🏆 **Recognition**
+
+- 🏅 *Employee of the Quarter – TechVillage* (Q2 2023)  
+  Recognized for leading innovations in PayMoney's architecture and scaling.
+
+---
+
+📊 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sufianrubel&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sufianrubel&layout=compact)
+
+---
+
+📫 **Let’s Connect**
+
+- 🌐 [Portfolio Website](https://sufianrubel.github.io/profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sufian24)  
+- 📧 [rubel.nstu27@gmail.com](mailto:rubel.nstu27@gmail.com)
+
+---
+
+> "First solve the problem, then write the code — with clarity, scalability, and purpose."
