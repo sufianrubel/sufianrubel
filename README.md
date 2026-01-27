@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Abu Sufian Rubel</h1>
 <p align="center">
-  <b>Software Engineer</b> | <code>PHP</code> | <code>JavaScript</code> | <code>Go</code> | <code>Java</code><br>
+  <b>Software Engineer</b> | <code>PHP</code> | <code>JavaScript</code> | <code>Go</code> <br>
   🚀 Focused on backend systems, clean architecture & scalable platforms
 </p>
 
