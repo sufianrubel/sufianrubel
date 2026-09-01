@@ -1,5 +1,13 @@
 <div align="center">
 
+<img
+  src="./assets/github-banner.png"
+  alt="Abu Sufian Rubel - Software Engineer"
+  width="100%"
+/>
+
+<br/>
+
 # Hi, I'm Abu Sufian Rubel 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+%26+Full-Stack+Developer;Laravel+%7C+Golang+%7C+React+%7C+Node.js;Building+Scalable+Production-Ready+Software" alt="Typing SVG" />
