@@ -10,12 +10,17 @@
 
 # Hi, I'm Abu Sufian Rubel 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+%26+Full-Stack+Developer;Laravel+%7C+Golang+%7C+React+%7C+Node.js;Building+Scalable+Production-Ready+Software" alt="Typing SVG" />
+### Software Engineer | Backend & Full-Stack Systems
+
+Laravel • Golang • React • TypeScript • PostgreSQL • Redis
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Designing+Reliable+Backend+Systems;Building+Scalable+Production+Software;Engineering+APIs+%26+Distributed+Services;Turning+Complex+Problems+Into+Maintainable+Systems" alt="Typing SVG" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-sufianrubel-181717?style=for-the-badge&logo=github)](https://github.com/sufianrubel)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge)](https://sufiandev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sufianrubel-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufianrubel/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-181717?style=for-the-badge)](https://sufiandev.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-rubel.nstu27%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubel.nstu27@gmail.com)
 
 </div>
 
@@ -23,16 +28,14 @@
 
 ## 👨‍💻 About Me
 
-I'm **Abu Sufian Rubel**, a **Software Engineer specializing in Backend and Full-Stack Development**, with experience building scalable, reliable, and production-ready software systems.
+I'm **Abu Sufian Rubel**, a **Software Engineer focused on Backend and Full-Stack Engineering**, building reliable, scalable, and maintainable production systems.
 
-- ⚙️ Experienced in **Laravel, Golang, Node.js, REST APIs & backend architecture**
-- ⚛️ Building modern full-stack applications with **React, Next.js & TypeScript**
-- 🗄️ Working with **PostgreSQL, MySQL, MongoDB, Redis & data-intensive systems**
-- 🏗️ Focused on **System Design, Software Architecture, Scalability & Performance**
-- 🔌 Experienced with **third-party integrations, microservices & distributed services**
-- 🐳 Familiar with **Docker, Linux, CI/CD, AWS & production environments**
-- 🧠 Strong advocate for **Clean Architecture, SOLID principles, maintainability & engineering best practices**
-- 🚀 Passionate about solving complex problems and delivering reliable software at scale
+* ⚙️ Backend engineering with **Laravel, Golang, Node.js & REST APIs**
+* ⚛️ Modern application development with **React, Next.js & TypeScript**
+* 🏗️ Focused on **System Design, Software Architecture, Scalability & Performance**
+* 🗄️ Experienced with **PostgreSQL, MySQL, Redis & MongoDB**
+* 🔌 Building and integrating **APIs, microservices and third-party platforms**
+* 🐳 Working with **Docker, Linux, CI/CD and cloud-based environments**
 
 ---
 
@@ -65,45 +68,20 @@ I'm **Abu Sufian Rubel**, a **Software Engineer specializing in Backend and Full
 
 `Golang` `PostgreSQL` `Redis` `REST API` `Docker`
 
-- Backend systems supporting **10,000+ daily hotel operations**
-- REST API and microservice integrations
-- PMS integrations including AirHost and Temairazu
-- Production reliability and performance optimization
-- International engineering collaboration
+- Engineer backend services supporting **10,000+ daily hotel operations**
+- Develop and maintain production-grade REST APIs and service integrations
+- Integrate hotel PMS platforms including **AirHost and Temairazu**
+- Improve backend performance, reliability, caching and service communication
+- Collaborate with distributed engineering teams across multiple countries
 
 ### Software Engineer — TechVillage Ltd.
 
 `Laravel` `PHP` `MySQL` `REST API`
 
-- Payment platform development
-- Multi-vendor eCommerce systems
-- Payment gateway & third-party API integrations
-- Backend architecture and database optimization
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sufianrubel/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="48" height="48" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://github.com/sufianrubel">
-    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="48" height="48" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://sufiandev.vercel.app/">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="48" height="48" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="mailto:rubel.nstu27@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" height="48" alt="Gmail" />
-  </a>
-</p>
+- Developed backend systems for payment and multi-vendor commerce platforms
+- Built and integrated payment gateways and third-party APIs
+- Designed and maintained RESTful APIs and transactional workflows
+- Improved Laravel application architecture and database performance
 
 ---
 
@@ -122,7 +100,7 @@ I'm **Abu Sufian Rubel**, a **Software Engineer specializing in Backend and Full
 - Redis caching and performance optimization
 - Scalable, production-ready backend architecture
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-22c55e?style=for-the-badge&logo=googleearth&logoColor=white)](YOUR_LIVE_URL)
+> 🔒 Commercial production system — source code is proprietary.
 
 ---
 
@@ -139,7 +117,7 @@ I'm **Abu Sufian Rubel**, a **Software Engineer specializing in Backend and Full
 - Transaction workflow development
 - Modular Laravel architecture
 
-🔗 **Live Demo:** <a href="https://demo.paymoney.techvill.net/">View Project</a>
+🔗 **Live Demo:** <a href="https://demo.paymoney.techvill.net/">View Project</a> | 📦 **Repository:** <a href="https://github.com/sufianrubel/PayMoney">Source Code</a>
 
 ---
 
@@ -176,16 +154,12 @@ I'm **Abu Sufian Rubel**, a **Software Engineer specializing in Backend and Full
 
 ---
 
-## 🎯 Goals
+## 🎯 Engineering Focus
 
-- 🏗️ Master scalable software architecture & system design
-- ⚙️ Build high-performance backend and distributed systems
-- ⚛️ Create modern full-stack applications with React & Next.js
-- 🟦 Advance TypeScript and engineering best practices
-- 🗄️ Deepen database, caching & performance optimization skills
-- ☁️ Strengthen Docker, AWS, CI/CD & DevOps expertise
-- 🌍 Contribute to open source and impactful software products
-
+- Distributed backend systems and scalable architecture
+- Type-safe full-stack development with React, Next.js & TypeScript
+- Database performance, caching and observability
+- Production automation, CI/CD and cloud infrastructure
 
 <!-- ======================= FOOTER ======================= -->
 
@@ -195,7 +169,7 @@ I'm **Abu Sufian Rubel**, a **Software Engineer specializing in Backend and Full
 
 ### Thanks for visiting my profile! 👋
 
-**Building scalable software. Learning continuously. Creating impact. 🚀**
+**Building reliable systems. Solving complex problems. Engineering for scale. 🚀**
 
 <i>Let's build something meaningful together.</i>
 
