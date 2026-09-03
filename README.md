@@ -85,7 +85,7 @@ I'm **Abu Sufian Rubel**, a **Software Engineer specializing in Backend and Full
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/sufianrubel/">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="48" height="48" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
@@ -95,12 +95,12 @@ I'm **Abu Sufian Rubel**, a **Software Engineer specializing in Backend and Full
   </a>
   &nbsp;&nbsp;
 
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://sufiandev.vercel.app/">
     <img src="https://img.icons8.com/fluency/48/domain.png" width="48" height="48" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:rubel.nstu27@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" height="48" alt="Gmail" />
   </a>
 </p>
