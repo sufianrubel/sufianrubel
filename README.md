@@ -15,7 +15,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-sufianrubel-181717?style=for-the-badge&logo=github)](https://github.com/sufianrubel)
-![Profile Views](https://komarev.com/ghpvc/?username=sufianrubel&style=for-the-badge&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge)](https://sufiandev.vercel.app/)
 
 </div>
 
@@ -23,23 +23,37 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer based in **Dhaka, Bangladesh**, with 6+ years of experience building scalable web applications, backend systems, REST APIs, payment platforms, and production-grade business applications.
+I'm **Abu Sufian Rubel**, a **Software Engineer specializing in Backend and Full-Stack Development**, with experience building scalable, reliable, and production-ready software systems.
 
-- 💻 Backend & Full-Stack Development
-- ⚡ Laravel, Golang, React, Node.js & TypeScript
-- 🏗️ REST APIs, Microservices & System Design
-- 🗄️ PostgreSQL, MySQL, MongoDB & Redis
-- 🐳 Docker, Linux & CI/CD
-- 🤖 AI-assisted software development
-- 🎯 Focused on scalable, maintainable and production-ready systems
+- ⚙️ Experienced in **Laravel, Golang, Node.js, REST APIs & backend architecture**
+- ⚛️ Building modern full-stack applications with **React, Next.js & TypeScript**
+- 🗄️ Working with **PostgreSQL, MySQL, MongoDB, Redis & data-intensive systems**
+- 🏗️ Focused on **System Design, Software Architecture, Scalability & Performance**
+- 🔌 Experienced with **third-party integrations, microservices & distributed services**
+- 🐳 Familiar with **Docker, Linux, CI/CD, AWS & production environments**
+- 🧠 Strong advocate for **Clean Architecture, SOLID principles, maintainability & engineering best practices**
+- 🚀 Passionate about solving complex problems and delivering reliable software at scale
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,go,nodejs,express,js,ts,react,nextjs,tailwind,postgres,mysql,mongodb,redis,docker,git,github,linux,aws,postman&perline=10" />
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=php,laravel,go,nodejs,express&perline=10" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&perline=10" />
+
+### 🗄️ Databases & Caching
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=10" />
+
+### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,linux,aws&perline=10" />
+
+### 🔧 Tools & Version Control
+<img src="https://skillicons.dev/icons?i=git,github,postman&perline=10" />
 
 </div>
 
@@ -68,38 +82,87 @@ Software Engineer based in **Dhaka, Bangladesh**, with 6+ years of experience bu
 
 ---
 
-## 🚀 Featured Work
+## 🌐 Connect With Me
 
-**🏨 Hotel Manager Platform**  
-Golang • PostgreSQL • Redis • REST API • Docker
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="48" height="48" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
 
-**💳 PayMoney**  
-Laravel • PHP • MySQL • REST API • OAuth
+  <a href="https://github.com/sufianrubel">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="48" height="48" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
 
-**🛒 Martvill**  
-Laravel • PHP • MySQL • Multi-Vendor eCommerce
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="48" height="48" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" height="48" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Featured Engineering Work
 
-<div align="center">
+### 🏨 Hotel Manager Platform
+**Production-grade hotel management and integration ecosystem**
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sufianrubel&theme=github"
-  alt="GitHub Stats"
-/>
+**Tech:** `Golang` `PostgreSQL` `Redis` `REST API` `Docker`
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sufianrubel&theme=github"
-  alt="Top Languages"
-/>
+> Backend systems powering large-scale hotel operations, integrations, and reliable service communication.
 
-<br/>
+**Highlights**
+- High-performance REST API development
+- PMS & microservice integrations
+- Redis caching and performance optimization
+- Scalable, production-ready backend architecture
 
-<img src="https://streak-stats.demolab.com/?user=sufianrubel&hide_border=true" />
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-22c55e?style=for-the-badge&logo=googleearth&logoColor=white)](YOUR_LIVE_URL)
 
-</div>
+---
+
+### 💳 PayMoney
+**Secure digital payment and transaction platform**
+
+**Tech:** `Laravel` `PHP` `MySQL` `REST API` `OAuth`
+
+> Modular payment platform designed for secure transactions, third-party integrations, and scalable financial workflows.
+
+**Highlights**
+- Multiple payment gateway integrations
+- Secure REST APIs and OAuth authentication
+- Transaction workflow development
+- Modular Laravel architecture
+
+🔗 **Live Demo:** <a href="https://demo.paymoney.techvill.net/">View Project</a>
+
+---
+
+### 🛒 Martvill
+**Scalable multi-vendor eCommerce ecosystem**
+
+**Tech:** `Laravel` `PHP` `MySQL` `REST API`
+
+> Feature-rich commerce platform supporting vendors, products, inventory, orders, customers, and payments.
+
+**Highlights**
+- Multi-vendor architecture
+- Product, order & inventory management
+- Payment gateway integrations
+- Extensible eCommerce workflows
+
+🔗 **Live Demo:** <a href="https://demo.martvill.techvill.net/">View Project</a>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center"><img width="49%" height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sufianrubel&theme=tokyonight" alt="GitHub Stats"><img width="50%" height="195" src="https://streak-stats.demolab.com?user=sufianrubel&theme=tokyonight&hide_border=true&card_width=495" alt="GitHub Streak"></p>
 
 ---
 
@@ -113,39 +176,27 @@ Laravel • PHP • MySQL • Multi-Vendor eCommerce
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Goals
 
-```typescript
-const currentFocus = {
-    frontend: ["TypeScript", "React", "Next.js"],
-    backend: ["Laravel", "Golang", "Node.js"],
-    architecture: ["System Design", "Clean Architecture"],
-    devOps: ["Docker", "CI/CD", "Linux"],
-    exploring: ["AI-Assisted Development"],
-};
-```
+- 🏗️ Master scalable software architecture & system design
+- ⚙️ Build high-performance backend and distributed systems
+- ⚛️ Create modern full-stack applications with React & Next.js
+- 🟦 Advance TypeScript and engineering best practices
+- 🗄️ Deepen database, caching & performance optimization skills
+- ☁️ Strengthen Docker, AWS, CI/CD & DevOps expertise
+- 🌍 Contribute to open source and impactful software products
 
----
 
-## 🤝 Connect With Me
+<!-- ======================= FOOTER ======================= -->
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-sufianrubel-181717?style=for-the-badge&logo=github)](https://github.com/sufianrubel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abu_Sufian_Rubel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
-
----
+<br/>
 
 <div align="center">
 
-### Build • Learn • Improve • Repeat
+### Thanks for visiting my profile! 👋
 
-**Clean code. Scalable architecture. Real-world impact.**
+**Building scalable software. Learning continuously. Creating impact. 🚀**
 
-⭐ Explore my repositories and feel free to connect.
+<i>Let's build something meaningful together.</i>
 
 </div>
