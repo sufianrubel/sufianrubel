@@ -64,17 +64,17 @@ I'm **Abu Sufian Rubel**, a **Software Engineer focused on Backend and Full-Stac
 
 ## 💼 Engineering Experience
 
-### Backend Developer — Adventure Dhaka Limited
+### Backend Developer — (Adventure Dhaka Limited)[https://jp.adventurekk.com/adventure-bangladesh/]
 
 `Golang` `PostgreSQL` `Redis` `REST API` `Docker`
 
 - Engineer backend services supporting **10,000+ daily hotel operations**
 - Develop and maintain production-grade REST APIs and service integrations
 - Integrate hotel PMS platforms including **AirHost and Temairazu**
-- Improve backend performance, reliability, caching and service communication
+- Improve backend performance, reliability, caching, and service communication
 - Collaborate with distributed engineering teams across multiple countries
 
-### Software Engineer — TechVillage Ltd.
+### Software Engineer — [TechVillage](https://techvill.net/)
 
 `Laravel` `PHP` `MySQL` `REST API`
 
