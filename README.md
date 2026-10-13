@@ -64,7 +64,7 @@ I'm **Abu Sufian Rubel**, a **Software Engineer focused on Backend and Full-Stac
 
 ## 💼 Engineering Experience
 
-### Backend Developer — (Adventure Dhaka Limited)[https://jp.adventurekk.com/adventure-bangladesh/]
+### Backend Developer — [Adventure Dhaka Limited](https://jp.adventurekk.com/adventure-bangladesh/)
 
 `Golang` `PostgreSQL` `Redis` `REST API` `Docker`
 
