@@ -116,6 +116,10 @@ I'm **Abu Sufian Rubel**, a **Software Engineer focused on Backend and Full-Stac
 - Secure REST APIs and OAuth authentication
 - Transaction workflow development
 - Modular Laravel architecture
+- [CryptInvest - Wallet Growth Investment Addon](https://codecanyon.net/item/cryptinvest-wallet-growth-investment-addon/40526686)
+- [CryptExchange - Paymoney Crypto Swap and Buy/Sell Addon](https://codecanyon.net/item/cryptexchange-paymoney-crypto-swap-and-buysell-addon/43177642)
+- [AgentPay - PayMoney Agent Addon & Mobile App](https://codecanyon.net/item/agentpay-paymoney-agent-addon-mobile-app/51678110)
+- [Paymoney - OpenCart Addon](https://codecanyon.net/item/paymoney-opencart-addon/48172671)
 
 🔗 **Live Demo:** <a href="https://demo.paymoney.techvill.net/">View Project</a> | 📦 **Repository:** <a href="https://github.com/sufianrubel/PayMoney">Source Code</a>
 
