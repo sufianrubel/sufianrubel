@@ -18,7 +18,7 @@ Laravel • Golang • React • TypeScript • PostgreSQL • Redis
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sufianrubel-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufianrubel/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sufianrubel-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abusufianrubel/)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-181717?style=for-the-badge)](https://sufiandev.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-rubel.nstu27%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubel.nstu27@gmail.com)
 
@@ -121,7 +121,7 @@ I'm **Abu Sufian Rubel**, a **Software Engineer focused on Backend and Full-Stac
 - [AgentPay - PayMoney Agent Addon & Mobile App](https://codecanyon.net/item/agentpay-paymoney-agent-addon-mobile-app/51678110)
 - [Paymoney - OpenCart Addon](https://codecanyon.net/item/paymoney-opencart-addon/48172671)
 
-🔗 **Live Demo:** <a href="https://demo.paymoney.techvill.net/">View Project</a> | 📦 **Repository:** <a href="https://github.com/sufianrubel/PayMoney">Source Code</a>
+🔗 **Live Demo:** <a href="https://demo.paymoney.techvill.net/">View Project</a> | 📦 **Repository:** <a href="https://github.com/abusufianrubel/PayMoney">Source Code</a>
 
 ---
 
@@ -152,7 +152,7 @@ I'm **Abu Sufian Rubel**, a **Software Engineer focused on Backend and Full-Stac
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sufianrubel/sufianrubel/output/github-contribution-grid-snake.svg" alt="Snake contribution animation" />
+<img src="https://raw.githubusercontent.com/abusufianrubel/abusufianrubel/output/github-contribution-grid-snake.svg" alt="Snake contribution animation" />
 
 </div>
 
