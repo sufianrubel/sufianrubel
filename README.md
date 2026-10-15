@@ -121,7 +121,7 @@ I'm **Abu Sufian Rubel**, a **Software Engineer focused on Backend and Full-Stac
 - [AgentPay - PayMoney Agent Addon & Mobile App](https://codecanyon.net/item/agentpay-paymoney-agent-addon-mobile-app/51678110)
 - [Paymoney - OpenCart Addon](https://codecanyon.net/item/paymoney-opencart-addon/48172671)
 
-🔗 **Live Demo:** <a href="https://demo.paymoney.techvill.net/">View Project</a> | 📦 **Repository:** <a href="https://github.com/abusufianrubel/PayMoney">Source Code</a>
+🔗 **Live Demo:** <a href="https://demo.paymoney.techvill.net/">View Project</a> | 📦 **Repository:** <a href="https://github.com/abusufianrubel/paymoney-secure-online-payment-gateway">Source Code</a>
 
 ---
 
